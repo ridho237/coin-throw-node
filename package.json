@@ -1,0 +1,12 @@
+{
+	"name": "tugas1",
+	"version": "1.0",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1",
+		"starto": "node index.js"
+	},
+	"author": "Muhammad Ridho",
+	"license": "ISC",
+	"description": "Tugas Lempar Coin, Pemodelan Dan Simulasi"
+}
